@@ -1,4 +1,4 @@
-name: Keep Streak Green
+name: GitHub Streak Keeper Bot
 
 on:
   schedule:
